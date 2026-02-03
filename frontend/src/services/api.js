@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://hrms-lite-qnf9.onrender.com"
+  baseURL: "https://hrms-lite-qnf9.onrender.com/api"
 });
 
 export const fetchEmployees = () => API.get("/employees");
