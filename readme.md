@@ -20,8 +20,8 @@ Backend:
 - MongoDB
 
 ## Live URLs
-Frontend: https://your-frontend-url
-Backend: https://your-backend-url
+Frontend: https://hrms-lite-six-xi.vercel.app
+Backend: https://hrms-lite-qnf9.onrender.com
 
 ## Setup (Local)
 1. Clone repository
